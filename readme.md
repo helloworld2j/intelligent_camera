@@ -1,4 +1,4 @@
-##Skin disease diagnose by using convolutional neural network with assistive chatbot
+## Skin disease diagnose by using convolutional neural network with assistive chatbot for first aid solution 
 
 In this project we make use of convolutional Neural Networks (CNNs) and an AI chatbot for preliminary skin disease diagnosis. Steps include collecting and preprocessing diverse skin disease images for CNN training, integrating the CNN into an AI chatbot, enabling natural language interactions, and implementing automated diagnosis 
 
